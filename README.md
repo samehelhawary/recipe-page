@@ -32,8 +32,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Link](https://your-solution-url.com)
-- Live Site URL: [Link](https://your-live-site-url.com)
+- Solution URL: [Link](https://github.com/samehelhawary/recipe-page)
+- Live Site URL: [Link](https://wondrous-kelpie-aaa57c.netlify.app/)
 
 ## My process
 
